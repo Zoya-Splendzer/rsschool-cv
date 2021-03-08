@@ -3,7 +3,7 @@
 ***
 * ### __*Lead procurement specialist*__              
    2014-03 - Present <br/>
-    ### __FLLC "EPAM Systems"__ [site](https://www.epam.com/)
+    ### **FLLC "EPAM Systems"** [site](https://www.epam.com/)
  
     * organization of work on the formation, maintenance and storage of the procurement department database;<br/>
     * automation and control of business processes;<br/>
@@ -12,15 +12,15 @@
 
 * ### __*Lead ecomonist*__ 
   2010-06 - 2014-03 <br/>
-   ### __CJSC "PMI GROUP"__ [site](https://pmi.by/)
+   ### **CJSC "PMI GROUP"** [site](https://pmi.by/)
 
    * automation of the budgeting process and the automation of the financial activities of the enterprise through the implementation and adaptation of modern software products;<br/>
-   * keep records of economic indicators of the results of production and economic activities of the enterprise and its divisions<br/>
+   * keep records of economic indicators of the results of production and economic aSctivities of the enterprise and its divisions<br/>
    * carry out a plan / fact analysis of profitability by type of activity and financial reporting centers; I draw up and track projects of economic, financial, industrial and commercial activities
 
 ## Education
    ***
- ### Belarusian National Technical University
+ #### Belarusian National Technical University
 
 
 ## Skills
