@@ -29,3 +29,12 @@
    * confident MS Officer user;<br/>
    * B1 English level;<br/>
    * experience in working with a big data.
+
+## Contacts
+***
+
+Tel |+375(29)2562572
+---| ---:
+
+| e-mail | zouaspl@gmail.com |
+| --- | ---: |
